@@ -1,0 +1,11 @@
+required  that i installed in my project
+    npm init -y    
+    npm i      
+    npm i express   
+    npm i mongoose    
+    npm i validator    
+    npm i bcryptjs     
+    npm i jsonwebtoken
+    npm i multer
+
+done by : Anasemoon nasr Gamill
